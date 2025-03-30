@@ -1,0 +1,8 @@
+git config --global user.name "name"
+git config --global user.email "email"
+
+git remote add origin https://github.com/TitaniumSalmon/Universal-Repo.git
+
+git add.
+git commit -m "comment"
+git push origin main
